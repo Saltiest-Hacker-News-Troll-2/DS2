@@ -7,8 +7,8 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-vadersentiment = "*"
 requests = "*"
+vadersentiment = "*"
 
 [requires]
 python_version = "3.7"
