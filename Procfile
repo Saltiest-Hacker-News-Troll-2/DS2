@@ -1,0 +1,1 @@
+web: gunicorn hn_app:app -t 120
