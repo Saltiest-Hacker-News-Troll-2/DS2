@@ -9,6 +9,7 @@ verify_ssl = true
 flask = "*"
 requests = "*"
 vadersentiment = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"

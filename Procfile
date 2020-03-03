@@ -1,1 +1,1 @@
-web:gunicorn hn_app:app -t 120
+web: gunicorn hn_app:app -t 120
